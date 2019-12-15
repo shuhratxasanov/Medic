@@ -111,11 +111,15 @@ section  .box div span:nth-child(3)
 	margin-left: 100px;
 	height: 400px;
 	margin-top: 50px;
+	color: black;
+	font-size: 2em;
+	font-weight: bold;
 }
 #shuhrat11{
 	background-color: #a60e15;
 	border-bottom-color: #f186f2;
 	border-right-color: #eb16ee ; 
+
 }
 #shuhrat12{
 	background-color: yellow;
@@ -130,6 +134,11 @@ section  .box div span:nth-child(3)
 	margin-left: 100px;
 	height: 300px;
 	border-radius: 50px;
+	color: red;
+	font-size: 2em;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 0px;
 }
 #shuhrat15{
 	background-color: black;
@@ -147,4 +156,7 @@ section  .box div span:nth-child(3)
 	background-color: black;
 	border-radius: 300px;
 	border: 10px solid red;
+}
+#shuhrat19{
+	margin-top: 100px;
 }
